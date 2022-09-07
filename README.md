@@ -6,16 +6,16 @@ using a Chebyshev expansion at finite points across the cross-section of the mic
 
 No slip
 __________________
-+
-+
-.
-.
+  .
+  .
+  .
+  .
 Chebysehev nodes
-.
-.
-+
-+
-__________________
+  .
+  .
+  .
+  .
+  __________________
 No slip
 
 Each nodal point is a truncated chebyshev expansion,
